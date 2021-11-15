@@ -1,0 +1,22 @@
+{
+  "name": "discordjs",
+  "version": "1.0.0",
+  "description": "Discordbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/christanplaza/discordjs.git"
+  },
+  "author": "Christan Shane Plaza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christanplaza/discordjs/issues"
+  },
+  "homepage": "https://github.com/christanplaza/discordjs#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
